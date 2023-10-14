@@ -13,7 +13,7 @@ Requirements: Xcode installed on your Mac
 
 1. Clone this repo to your local machine.
 ```ShellSession
-% git clone git@github.com:opu-imp/VisPhoto-ASSETS-2023-tfcam.git
+% git clone git@github.com:opu-imp/VisPhoto-ASSETS-2023-tfcam.git tensorflow-camera
 ```
 
 2. Install the dependencies, then you find `tf-cam.xcworkspace`.
