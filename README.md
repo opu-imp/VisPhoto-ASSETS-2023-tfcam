@@ -1,11 +1,15 @@
-# tensorflow-camera
+# tensorflow-camera (tfCam)
 
-視覚障害者のためのカメラアプリ。音声でカメラの向きを指示してくれる。
+tfCam is an iOS camera app for people with visual impairments.
+The app helps the user to aim at the target object with audio feedback.
+
+
+## Requierments
+
+Requirements: Xcode installed on your Mac
 
 
 ## 使い方
-
-Mac に Xcode の最新版がインストールされていることを前提とする。
 
 リポジトリをクローンする。
 ```ShellSession
