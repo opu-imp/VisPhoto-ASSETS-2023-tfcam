@@ -9,25 +9,24 @@ The app helps the user to aim at the target object with audio feedback.
 Requirements: Xcode installed on your Mac
 
 
-## 使い方
+## Install
 
-リポジトリをクローンする。
+1. Clone this repo to your local machine.
 ```ShellSession
-% git clone git@github.com:opu-imp/tensorflow-camera.git
+% git clone git@github.com:opu-imp/VisPhoto-ASSETS-2023-tfcam.git
 ```
 
-パッケージをインストールする。
+2. Install the dependencies, then you find `tf-cam.xcworkspace`.
 ```ShellSession
 % cd tensorflow-camera
 % pod install
 ```
 
-うまくいくと `tf-cam.xcworkspace` というファイルが作成されるので、これを Xcode で開く。
+3. Open `tf-cam.xcworkspace` via Xcode.
 
-iPhone を Mac に接続。アプリを実行するデバイスを選択して、ウィンドウ上部にある三角のボタンを押す。
-実機でアプリを動かす方法の詳細は https://www.ingenious.jp/articles/howto/xcode/xcode-actual-machine-test/ などを参照。
+4. Connect your iPhone to the Mac and Run the application.
 
 
-## スクリーンショット
+## Screenshots
 
 <img src="./screenshots/screen_06.jpeg" width="30%;"> <img src="./screenshots/screen_07.jpeg" width="30%;"> <img src="./screenshots/screen_08.jpeg" width="30%;">
